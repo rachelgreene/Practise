@@ -1,4 +1,6 @@
 This is for practise
 I want to create merge conflict.
 So that i can resolve.This is just a sample master version.
+I have added second line
+I have added third line as well:D
 
